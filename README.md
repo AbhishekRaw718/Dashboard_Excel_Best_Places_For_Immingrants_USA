@@ -108,4 +108,5 @@ MIT — feel free to fork and adapt with attribution.
 ## 👤 Author
 **Abhishek Rawal**  
 Engineering Management | Product & Analytics  
-LinkedIn: _add link_ • Email: _add email_
+LinkedIn: https://www.linkedin.com/in/abhishek-rawal-2510/ • Email: adrawal2510@gmail.com
+
